@@ -1,0 +1,386 @@
+{
+  "notes": [
+    {
+      "id": "note_1",
+      "u": "u_maya",
+      "authorName": "Maya Lin",
+      "authorPic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "title": "A morning realization",
+      "body": "The most honest thoughts arrive before the world wakes up. Unedited, quiet, and surprisingly kind to who we are trying to become.",
+      "c": 1,
+      "t": 1792591023426,
+      "likes": [
+        "u_liam",
+        "u_elena",
+        "u_r5oikjc",
+        "u_sofia"
+      ],
+      "commentsCount": 2
+    },
+    {
+      "id": "note_2",
+      "u": "u_liam",
+      "authorName": "Liam Chen",
+      "authorPic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "title": "Spaces in between",
+      "body": "Architecture is not just the stone or glass you erect. It is the breathing room left untouched inside the frame.",
+      "c": 2,
+      "t": 1792586403426,
+      "likes": [
+        "u_maya",
+        "u_sofia",
+        "u_elena"
+      ],
+      "commentsCount": 2
+    },
+    {
+      "id": "note_3",
+      "u": "u_elena",
+      "authorName": "Elena Vance",
+      "authorPic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "title": "Pocket wisdom",
+      "body": "Stop saving your favorite notebook for someday. Write on the first page today. Wear the scent, use the good pen.",
+      "c": 4,
+      "t": 1792577703426,
+      "likes": [
+        "u_maya"
+      ],
+      "commentsCount": 1
+    },
+    {
+      "id": "note_4",
+      "u": "u_sofia",
+      "authorName": "Sofia Ray",
+      "authorPic": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "title": "Creative reminder",
+      "body": "Give yourself permission to make something imperfect. The friction of starting is always heavier than the joy of finishing.",
+      "c": 3,
+      "t": 1792563303426,
+      "likes": [
+        "u_liam",
+        "u_maya"
+      ],
+      "commentsCount": 0
+    },
+    {
+      "id": "note_5",
+      "u": "u_maya",
+      "authorName": "Maya Lin",
+      "authorPic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "title": "Three things",
+      "body": "1. Drinking warm tea without checking my phone.\n2. The golden slant of light on the wooden floor.\n3. Finishing a paragraph that felt true.",
+      "c": 5,
+      "t": 1792512903426,
+      "likes": [
+        "u_elena",
+        "u_sofia"
+      ],
+      "commentsCount": 1
+    },
+    {
+      "id": "note_photo_1",
+      "u": "u_maya",
+      "authorName": "Maya Lin",
+      "authorPic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "title": "Morning sunlight & black coffee",
+      "body": "The sun hitting the desk at just the right angle before the bustle starts.",
+      "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=900&auto=format&fit=crop&q=80",
+      "c": 0,
+      "t": 1792585668419,
+      "likes": [
+        "u_liam",
+        "u_sofia"
+      ],
+      "commentsCount": 1
+    },
+    {
+      "id": "note_photo_2",
+      "u": "u_liam",
+      "authorName": "Liam Chen",
+      "authorPic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "title": "Monolithic arches",
+      "body": "Brutalist concrete and soft coastal shadows.",
+      "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=900&auto=format&fit=crop&q=80",
+      "c": 0,
+      "t": 1792542468419,
+      "likes": [
+        "u_maya"
+      ],
+      "commentsCount": 0
+    }
+  ],
+  "comments": [
+    {
+      "id": "cmt_1",
+      "p": "note_1",
+      "u": "u_liam",
+      "authorName": "Liam Chen",
+      "authorPic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "text": "So deeply true. That first hour has a stillness nothing else matches.",
+      "t": 1792591383426
+    },
+    {
+      "id": "cmt_2",
+      "p": "note_1",
+      "u": "u_elena",
+      "authorName": "Elena Vance",
+      "authorPic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "text": "Needed this reminder today ✨",
+      "t": 1792591803426
+    },
+    {
+      "id": "cmt_3",
+      "p": "note_2",
+      "u": "u_sofia",
+      "authorName": "Sofia Ray",
+      "authorPic": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "text": "Love the phrasing: \"breathing room left untouched\".",
+      "t": 1792589403426
+    },
+    {
+      "id": "cmt_4",
+      "p": "note_3",
+      "u": "u_maya",
+      "authorName": "Maya Lin",
+      "authorPic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "text": "Opening my linen journal right now because of this.",
+      "t": 1792583103426
+    },
+    {
+      "id": "cmt_5",
+      "p": "note_5",
+      "u": "u_elena",
+      "authorName": "Elena Vance",
+      "authorPic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "text": "Number 3 is the best feeling in the world!",
+      "t": 1792520103426
+    },
+    {
+      "id": "cmt_mvi9p85o3qf2",
+      "p": "note_2",
+      "u": "u_maya",
+      "authorName": "Maya Lin",
+      "authorPic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "text": "This architecture note is stunning.",
+      "t": 1792596547212
+    }
+  ],
+  "profiles": {
+    "u_maya": {
+      "id": "u_maya",
+      "name": "Maya Lin",
+      "pic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "bio": "Curating quiet thoughts, design patterns & morning essays.",
+      "joinedAt": 1791382503426
+    },
+    "u_liam": {
+      "id": "u_liam",
+      "name": "Liam Chen",
+      "pic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "bio": "Architecture notes, city walks & poetry.",
+      "joinedAt": 1790864103426
+    },
+    "u_elena": {
+      "id": "u_elena",
+      "name": "Elena Vance",
+      "pic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "bio": "Minimalism, tea brewing and contemplative reflections.",
+      "joinedAt": 1790000103426
+    },
+    "u_sofia": {
+      "id": "u_sofia",
+      "name": "Sofia Ray",
+      "pic": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "bio": "Color theory, digital crafts & daily observations.",
+      "joinedAt": 1792160103426
+    },
+    "u_r5oikjc": {
+      "id": "u_r5oikjc",
+      "joinedAt": 1792592148366,
+      "name": "You",
+      "pic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "bio": "Writing micro-notes & thoughts."
+    },
+    "u_dewanand_j9b8": {
+      "id": "u_dewanand_j9b8",
+      "name": "Dewanand Mahto",
+      "username": "dewanand",
+      "pic": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\"><defs><linearGradient id=\"g\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"%23ff3d6e\"/><stop offset=\"100%\" stop-color=\"%237b2ff7\"/></linearGradient></defs><circle cx=\"50\" cy=\"50\" r=\"50\" fill=\"url(%23g)\"/><text x=\"50\" y=\"60\" font-family=\"sans-serif\" font-weight=\"bold\" font-size=\"38\" fill=\"white\" text-anchor=\"middle\">N</text></svg>",
+      "bio": "Fullstack developer & writer",
+      "joinedAt": 1792593302409
+    }
+  },
+  "saved": {
+    "u_maya": [
+      "note_2",
+      "note_3"
+    ],
+    "u_liam": [
+      "note_1"
+    ]
+  },
+  "shares": [],
+  "follows": {
+    "u_maya": [
+      "u_liam",
+      "u_elena"
+    ],
+    "u_liam": [
+      "u_maya",
+      "u_sofia"
+    ],
+    "u_elena": [
+      "u_maya",
+      "u_liam"
+    ],
+    "u_sofia": [
+      "u_maya",
+      "u_liam"
+    ],
+    "u_test_visitor": [],
+    "u_dewanand_j9b8": [],
+    "u_r5oikjc": []
+  },
+  "accounts": {
+    "maya": {
+      "id": "u_maya",
+      "username": "maya",
+      "name": "Maya Lin",
+      "passwordHash": "9550c153a2fd9bb9d8c39df38d0a177188b60a82d1d868f25e08f3566166197c",
+      "createdAt": 1791383700789
+    },
+    "liam": {
+      "id": "u_liam",
+      "username": "liam",
+      "name": "Liam Chen",
+      "passwordHash": "f1dfd98cd78346ef2640e13378437805f6001ef68d11daff3809105b7c5a4dd7",
+      "createdAt": 1790865300789
+    },
+    "elena": {
+      "id": "u_elena",
+      "username": "elena",
+      "name": "Elena Vance",
+      "passwordHash": "6fbab32640c059efb2ed35de6952f4b4a02a77ee985c10934ac5442db2aba560",
+      "createdAt": 1790001300789
+    },
+    "sofia": {
+      "id": "u_sofia",
+      "username": "sofia",
+      "name": "Sofia Ray",
+      "passwordHash": "7dfef35675adb5f58e8e3aaf028133762f9acbfefd234528e41bc34146378f96",
+      "createdAt": 1792161300789
+    },
+    "dewanand": {
+      "id": "u_dewanand_j9b8",
+      "username": "dewanand",
+      "name": "Dewanand Mahto",
+      "passwordHash": "86e7a3fa6f113a0904cf02bc474c9701878f48fbafe5d8e5b32d3f5d3a196594",
+      "createdAt": 1792593302409
+    }
+  },
+  "notifications": [
+    {
+      "id": "notif_mvi9p85orhyl",
+      "userId": "u_liam",
+      "actorId": "u_maya",
+      "actorName": "Maya Lin",
+      "actorPic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "type": "comment",
+      "noteId": "note_2",
+      "previewText": "This architecture note is stunning.",
+      "isRead": false,
+      "t": 1792596547212
+    },
+    {
+      "id": "notif_mvi9p333lp5z",
+      "userId": "u_liam",
+      "actorId": "u_elena",
+      "actorName": "Elena Vance",
+      "actorPic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "type": "follow",
+      "isRead": false,
+      "t": 1792596540639
+    },
+    {
+      "id": "notif_welcome_mvi9o1uf",
+      "userId": "u_liam",
+      "actorId": "u_maya",
+      "actorName": "Maya Lin",
+      "actorPic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "type": "follow",
+      "isRead": false,
+      "t": 1792596192375
+    },
+    {
+      "id": "notif_mvi9nx7duy9u",
+      "userId": "u_maya",
+      "actorId": "u_elena",
+      "actorName": "Elena Vance",
+      "actorPic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "type": "comment",
+      "noteId": "note_1",
+      "previewText": "Loved this thought so much! ✨",
+      "isRead": false,
+      "t": 1792596486361
+    },
+    {
+      "id": "notif_mvi9noavaayk",
+      "userId": "u_maya",
+      "actorId": "u_sofia",
+      "actorName": "Sofia Ray",
+      "actorPic": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "type": "like",
+      "noteId": "note_1",
+      "previewText": "A morning realization",
+      "isRead": true,
+      "t": 1792596474823
+    },
+    {
+      "id": "notif_seed_1",
+      "userId": "u_maya",
+      "actorId": "u_liam",
+      "actorName": "Liam Chen",
+      "actorPic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "type": "like",
+      "noteId": "note_1",
+      "previewText": "A morning realization",
+      "isRead": true,
+      "t": 1792595628418
+    },
+    {
+      "id": "notif_seed_2",
+      "userId": "u_maya",
+      "actorId": "u_elena",
+      "actorName": "Elena Vance",
+      "actorPic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "type": "comment",
+      "noteId": "note_1",
+      "previewText": "Needed this reminder today ✨",
+      "isRead": true,
+      "t": 1792594668418
+    },
+    {
+      "id": "notif_seed_3",
+      "userId": "u_maya",
+      "actorId": "u_sofia",
+      "actorName": "Sofia Ray",
+      "actorPic": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "type": "follow",
+      "isRead": true,
+      "t": 1792589268418
+    },
+    {
+      "id": "notif_seed_4",
+      "userId": "u_maya",
+      "actorId": "u_liam",
+      "actorName": "Liam Chen",
+      "actorPic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "type": "like",
+      "noteId": "note_photo_1",
+      "previewText": "Morning sunlight & black coffee",
+      "noteImage": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=900&auto=format&fit=crop&q=80",
+      "isRead": true,
+      "t": 1792585668418
+    }
+  ]
+}

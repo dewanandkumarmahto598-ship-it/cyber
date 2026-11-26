@@ -1,0 +1,6 @@
+{
+  "name": "Notes - Social Micro-Journal",
+  "description": "An aesthetic social notes platform to capture ideas, share colorful thoughts, like, and connect with other writers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
